@@ -1,2 +1,4 @@
 # Software-development-tools-lab2
-Software development tools lab 2 at ITMO University
+Implementation of 2nd lab for Software development tools at ITMO University. 4th semester
+
+Made by Polina Tceneva & Ekaterina Cherednichenko
